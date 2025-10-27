@@ -2,10 +2,22 @@ fireoscaptiveportal.com
 firetvcaptiveportal.com
 d1s31yz7dcc2d.cloudfront.net
 amzdigitaldownloads.edgesuite.net
-softwareupdates.amazon.com
 amzdigital-a.akamaidh.net
+softwareupdates.amazon.com
 updates.amazon.com
 firs-ta-g7g.amazonaws.com
 ota.amazon.com
 fireos.software.amazon.com
 updates-fireos.amazonaws.com
+prod.ota-cloudfront.net
+cloudfront.prod.ota-cloudfront.net
+remoteconfig-na.amazon.com
+n4h9utzk4f.execute-api.us-east-1.amazonaws.com
+amazon.dev
+*.amazonaws.com          ← *Voorzichtig* indien gebruikt, dit blokkeert veel Amazon-services
+api.eu.amazonalexa.com
+avs-alexa-19-eu.amazon.com
+dp-gw-na.amazon.com
+arcus-uswest.amazon.com
+ftv-smtv.ntp-fireos.com
+trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
