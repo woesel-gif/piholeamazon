@@ -14,7 +14,7 @@ cloudfront.prod.ota-cloudfront.net
 remoteconfig-na.amazon.com
 n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 amazon.dev
-*.amazonaws.com          ← *Voorzichtig* indien gebruikt, dit blokkeert veel Amazon-services
+amazonaws.com
 api.eu.amazonalexa.com
 avs-alexa-19-eu.amazon.com
 dp-gw-na.amazon.com
