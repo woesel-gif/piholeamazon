@@ -1,10 +1,10 @@
 softwareupdates.amazon.com
 ota.amazon.com
-prod.ota-cloudfront.net
-cloudfront.prod.ota-cloudfront.net
-fireos.software.amazon.com
 updates.amazon.com
 updates-fireos.amazonaws.com
+fireos.software.amazon.com
+prod.ota-cloudfront.net
+cloudfront.prod.ota-cloudfront.net
 amzdigitaldownloads.edgesuite.net
 d1s31yz7dcc2d.cloudfront.net
 test-final.fireos.amazon.com
@@ -15,11 +15,11 @@ remoteconfig-na.amazon.com
 arcus-uswest.amazon.com
 arcus-useast.amazon.com
 arcus-euwest.amazon.com
+trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 global.telemetry.insights.video.a2z.com
 minerva.devices.a2z.com
 prod.service.minerva.devices.a2z.com
 us-east-1.prod.service.minerva.devices.a2z.com
-trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 fireoscaptiveportal.com
 firetvcaptiveportal.com
 softwareupdates.amazon.co.uk
