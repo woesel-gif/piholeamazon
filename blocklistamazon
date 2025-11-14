@@ -15,13 +15,13 @@ remoteconfig-na.amazon.com
 arcus-uswest.amazon.com
 arcus-useast.amazon.com
 arcus-euwest.amazon.com
-trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 global.telemetry.insights.video.a2z.com
 minerva.devices.a2z.com
-*.prod.service.minerva.devices.a2z.com
+prod.service.minerva.devices.a2z.com
+us-east-1.prod.service.minerva.devices.a2z.com
+trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 fireoscaptiveportal.com
 firetvcaptiveportal.com
-amzdigitaldownloads.edgesuite.net
 softwareupdates.amazon.co.uk
 softwareupdates.amazon.de
 softwareupdates.amazon.co.jp
