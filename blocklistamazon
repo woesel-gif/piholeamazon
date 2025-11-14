@@ -1,4 +1,3 @@
-# --- FireOS Firmware & OTA Update Servers ---
 softwareupdates.amazon.com
 ota.amazon.com
 prod.ota-cloudfront.net
@@ -10,26 +9,18 @@ amzdigitaldownloads.edgesuite.net
 d1s31yz7dcc2d.cloudfront.net
 test-final.fireos.amazon.com
 s3.amazonaws.com/firmware
-
-# --- Update Metadata / Manifest / Version Checks ---
 device-metrics-us.amazon.com
 device-metrics-eu.amazon.com
 remoteconfig-na.amazon.com
 arcus-uswest.amazon.com
 arcus-useast.amazon.com
 arcus-euwest.amazon.com
-
-# --- Update Telemetry (used to confirm update status) ---
 trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 global.telemetry.insights.video.a2z.com
 minerva.devices.a2z.com
 *.prod.service.minerva.devices.a2z.com
-
-# --- Optional FireTV captive portal (not harmful if blocked) ---
 fireoscaptiveportal.com
 firetvcaptiveportal.com
-
-# --- Older/legacy FireOS update endpoints (still active on some FireOS 5/6 devices) ---
 amzdigitaldownloads.edgesuite.net
 softwareupdates.amazon.co.uk
 softwareupdates.amazon.de
