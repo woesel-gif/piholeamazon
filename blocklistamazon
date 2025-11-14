@@ -1,24 +1,23 @@
-amazonaws.com
-amazon.dev
-amzdigital-a.akamaidh.net
-amzdigitaldownloads.edgesuite.net
-api.eu.amazonalexa.com
-arcus-uswest.amazon.com
-avs-alexa-19-eu.amazon.com
-cloudfront.prod.ota-cloudfront.net
-d1s31yz7dcc2d.cloudfront.net
-dp-gw-na.amazon.com
-fireoscaptiveportal.com
-fireos.software.amazon.com
-firetvcaptiveportal.com
-firs-ta-g7g.amazonaws.com
-ftv-smtv.ntp-fireos.com
-n4h9utzk4f.execute-api.us-east-1.amazonaws.com
+# --- FireOS/FireTV Firmware & OS Updates ---
+softwareupdates.amazon.com
 ota.amazon.com
 prod.ota-cloudfront.net
-remoteconfig-na.amazon.com
-softwareupdates.amazon.com
-test-final.fireos.amazon.com
-trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+cloudfront.prod.ota-cloudfront.net
+fireos.software.amazon.com
 updates.amazon.com
 updates-fireos.amazonaws.com
+amzdigitaldownloads.edgesuite.net
+d1s31yz7dcc2d.cloudfront.net
+test-final.fireos.amazon.com
+s3.amazonaws.com/firmware
+
+# --- Update Telemetry (manifest + version checks) ---
+device-metrics-us.amazon.com
+device-metrics-eu.amazon.com
+remoteconfig-na.amazon.com
+arcus-uswest.amazon.com
+trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+
+# --- Optional (Network Captive Portal + DNS checks) ---
+fireoscaptiveportal.com
+firetvcaptiveportal.com
