@@ -1,3 +1,4 @@
+# OTA / firmware updates
 softwareupdates.amazon.com
 softwareupdates.amazon.co.uk
 softwareupdates.amazon.de
@@ -32,6 +33,7 @@ test-final.fireos.amazon.com
 prod.ota-cloudfront.net
 cloudfront.prod.ota-cloudfront.net
 
+# firmware CDN
 amzdigitaldownloads.edgesuite.net
 amzdigitaldownloads.amazon.com
 amzdigital-a.akamaihd.net
@@ -42,10 +44,12 @@ d2n7h3s3ks8p2k.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d3n8a8pro7vhmx.cloudfront.net
 
+# device telemetry
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-eu.amazon.com
 
+# remote config / device management
 remoteconfig-na.amazon.com
 remoteconfig-eu.amazon.com
 
@@ -53,45 +57,44 @@ arcus-uswest.amazon.com
 arcus-useast.amazon.com
 arcus-euwest.amazon.com
 
+dcape-na.amazon.com
+dcape-eu.amazon.com
+
 minerva.devices.a2z.com
 prod.service.minerva.devices.a2z.com
 us-east-1.prod.service.minerva.devices.a2z.com
 us-west-2.prod.service.minerva.devices.a2z.com
 eu-west-1.prod.service.minerva.devices.a2z.com
 
-dcape-na.amazon.com
-dcape-eu.amazon.com
-
 config.firetv.amazon.com
 config.amazonvideo.com
 
-fireoscaptiveportal.com
-firetvcaptiveportal.com
+# alexa / voice services
+api.amazonalexa.com
+api.eu.amazonalexa.com
+avs-alexa-19-eu.amazon.com
 
-client.rum.us-east-1.amazonaws.com
-dataplane.rum.us-east-1.amazonaws.com
-rum.us-east-1.amazonaws.com
+# Fire TV services
+dp-gw-na.amazon.com
+dp-discovery-na-ext.amazon.com
+ftv-smtv.ntp-fireos.com
 
-trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
-prod-clustered.bugs.firebat.prime-video.amazon.dev
-global.telemetry.insights.video.a2z.com
+# ads / recommendation engines
+mads-eu.amazon.com
+mas-ext-eu.amazon.com
+aviary.amazon.com
+aviary.amazon.de
+imdb.amazon-adsystem.com
+video-ads.a2z.com
+
+# telemetry
 telemetry.insights.video.a2z.com
 new-telemetry.insights.video.a2z.com
+global.telemetry.insights.video.a2z.com
 
-video-ads.a2z.com
-imdb.amazon-adsystem.com
-c.amazon-adsystem.com
-s.amazon-adsystem.com
-aax.amazon-adsystem.com
-aps.amazon-adsystem.com
-
-device-messaging-na.amazon.com
-device-messaging-eu.amazon.com
-
-api.amazonvideo.com
-fls-eu.amazon.com
-fls-na.amazon.com
-
+# optional (home screen ads)
 unagi.amazon.com
 unagi-na.amazon.com
 unagi-eu.amazon.com
+ktpx.amazon.com
+ktpx-eu.amazon.com
