@@ -9,6 +9,8 @@ softwareupdates.amazon.ca
 softwareupdates.amazon.eu
 softwareupdates.amazon.co.jp
 softwareupdates.amazon.in
+softwareupdates.amazon.se
+softwareupdates.amazon.pl
 
 updates.amazon.com
 updates.amazon.co.uk
@@ -16,6 +18,8 @@ updates.amazon.de
 updates.amazon.fr
 updates.amazon.it
 updates.amazon.nl
+updates.amazon.es
+updates.amazon.se
 
 ota.amazon.com
 ota-us.amazon.com
@@ -35,12 +39,15 @@ amzdigital-a.akamaihd.net
 d1s31yz7dcc2d.cloudfront.net
 d3a3n7s0q8c8x.cloudfront.net
 d2n7h3s3ks8p2k.cloudfront.net
+d2c8v52ll5s99u.cloudfront.net
+d3n8a8pro7vhmx.cloudfront.net
 
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-eu.amazon.com
 
 remoteconfig-na.amazon.com
+remoteconfig-eu.amazon.com
 
 arcus-uswest.amazon.com
 arcus-useast.amazon.com
@@ -49,14 +56,42 @@ arcus-euwest.amazon.com
 minerva.devices.a2z.com
 prod.service.minerva.devices.a2z.com
 us-east-1.prod.service.minerva.devices.a2z.com
+us-west-2.prod.service.minerva.devices.a2z.com
+eu-west-1.prod.service.minerva.devices.a2z.com
 
 dcape-na.amazon.com
 dcape-eu.amazon.com
 
 config.firetv.amazon.com
+config.amazonvideo.com
 
 fireoscaptiveportal.com
 firetvcaptiveportal.com
 
+client.rum.us-east-1.amazonaws.com
+dataplane.rum.us-east-1.amazonaws.com
+rum.us-east-1.amazonaws.com
+
 trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+prod-clustered.bugs.firebat.prime-video.amazon.dev
 global.telemetry.insights.video.a2z.com
+telemetry.insights.video.a2z.com
+new-telemetry.insights.video.a2z.com
+
+video-ads.a2z.com
+imdb.amazon-adsystem.com
+c.amazon-adsystem.com
+s.amazon-adsystem.com
+aax.amazon-adsystem.com
+aps.amazon-adsystem.com
+
+device-messaging-na.amazon.com
+device-messaging-eu.amazon.com
+
+api.amazonvideo.com
+fls-eu.amazon.com
+fls-na.amazon.com
+
+unagi.amazon.com
+unagi-na.amazon.com
+unagi-eu.amazon.com
